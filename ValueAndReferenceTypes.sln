@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueAndReferenceTypes", "ValueAndReferenceTypes\ValueAndReferenceTypes.csproj", "{0E2EA7F8-C221-4688-A362-1F76E21D8D9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryParseVbOrnekler", "TryParseVbOrnekler\TryParseVbOrnekler.csproj", "{6FA55FDB-A4BD-45CC-9376-664BC38480F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E2EA7F8-C221-4688-A362-1F76E21D8D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E2EA7F8-C221-4688-A362-1F76E21D8D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E2EA7F8-C221-4688-A362-1F76E21D8D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E2EA7F8-C221-4688-A362-1F76E21D8D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FA55FDB-A4BD-45CC-9376-664BC38480F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA55FDB-A4BD-45CC-9376-664BC38480F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA55FDB-A4BD-45CC-9376-664BC38480F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA55FDB-A4BD-45CC-9376-664BC38480F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B919B890-F74B-4071-AC87-16A4BD9AC49C}
+	EndGlobalSection
+EndGlobal
